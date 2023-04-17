@@ -1,0 +1,15 @@
+{
+    "username": "root",
+    "password": "admin",
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false,
+    "define": {
+      "timestamps": true,
+      "paranoid": true,
+      "underscored": true,
+      "freezeTableName": true
+    }
+  }
+  
